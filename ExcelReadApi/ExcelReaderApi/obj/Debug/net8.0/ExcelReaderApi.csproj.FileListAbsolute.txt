@@ -1,0 +1,994 @@
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.exe
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelRea.7B72665E.Up2Date
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+C:/Users/furka/RiderProjects/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CopyComplete
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+/mnt/projects/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CopyComplete
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+/home/monster/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.exe
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelRea.7B72665E.Up2Date
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+D:/Biocode Intern/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.exe
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelRea.7B72665E.Up2Date
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+D:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.exe
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelRea.7B72665E.Up2Date
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+E:/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.Development.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/appsettings.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.deps.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.runtimeconfig.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ExcelReaderApi.pdb
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Core.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Azure.Identity.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.Interfaces.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Humanizer.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Memory.Data.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.AssemblyReference.cache
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfoInputs.cache
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.AssemblyInfo.cs
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CoreCompileInputs.cache
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cs
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.MvcApplicationPartsAssemblyInfo.cache
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.ExcelReaderApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ExcelReaderApi.props
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/scopedcss/bundle/ExcelReaderApi.styles.css
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.csproj.CopyComplete
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/refint/ExcelReaderApi.dll
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.pdb
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ExcelReaderApi.genruntimeconfig.cache
+/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/Debug/net8.0/ref/ExcelReaderApi.dll
