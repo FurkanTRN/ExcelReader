@@ -10,6 +10,11 @@ builder.Services.AddJwtService(builder.Configuration);
 builder.Services.AddSwagger();
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await SeedData.Initialize(services);
+}
 
 if (app.Environment.IsDevelopment())
 {

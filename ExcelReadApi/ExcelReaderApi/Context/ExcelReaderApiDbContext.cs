@@ -87,9 +87,6 @@ public partial class ExcelReaderApiDbContext : DbContext
             .WithMany(u => u.UploadedFiles)
             .OnDelete(DeleteBehavior.Restrict)
             .HasForeignKey(uf => uf.UserId);
-        modelBuilder.Entity<Role>().HasData(
-            new Role { Id = 1, Name = "Admin" },
-            new Role { Id = 2, Name = "User" });
         OnModelCreatingPartial(modelBuilder);
     }
 

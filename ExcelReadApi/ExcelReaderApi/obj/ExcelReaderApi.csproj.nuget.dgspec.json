@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj": {}
+    "/home/monster/Projects/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj": {}
   },
   "projects": {
-    "/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj": {
+    "/home/monster/Projects/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj",
+        "projectUniqueName": "/home/monster/Projects/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj",
         "projectName": "ExcelReaderApi",
-        "projectPath": "/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj",
+        "projectPath": "/home/monster/Projects/ExcelReader/ExcelReadApi/ExcelReaderApi/ExcelReaderApi.csproj",
         "packagesPath": "/home/monster/.nuget/packages/",
-        "outputPath": "/home/monster/Biocode Intern/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/",
+        "outputPath": "/home/monster/Projects/ExcelReader/ExcelReadApi/ExcelReaderApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/monster/.nuget/NuGet/NuGet.Config"
@@ -110,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

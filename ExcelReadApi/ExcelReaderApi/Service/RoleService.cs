@@ -22,6 +22,11 @@ public class RoleService : IRoleService
         await _roleRepository.AddRoleToUser(userRole);
     }
 
+    public async Task EnsureRolesAsync(List<string> roles)
+    {
+        await _roleRepository.EnsureRolesAsync(roles);
+    }
+
     public async Task<Role> GetRoleByNameAsync(string roleName)
     {
         var role = await _roleRepository.GetRoleByNameAsync(roleName);

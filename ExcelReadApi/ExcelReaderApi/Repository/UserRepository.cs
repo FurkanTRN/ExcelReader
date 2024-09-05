@@ -69,4 +69,9 @@ public class UserRepository : IUserRepository
             .ThenInclude(ur => ur.Role)
             .FirstOrDefaultAsync(u => u.Email == email && u.Password == password);
     }
+
+    public async Task<int> UserCountAsync()
+    {
+        return await _context.Users.CountAsync();
+    }
 }

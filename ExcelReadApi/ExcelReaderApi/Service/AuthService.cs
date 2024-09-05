@@ -36,6 +36,7 @@ public class AuthService : IAuthService
         if (existUser != null)
         {
             throw new InvalidOperationException("User already exist");
+
         }
 
         var user = new CreateUserDto()

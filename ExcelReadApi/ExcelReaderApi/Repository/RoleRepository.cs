@@ -19,7 +19,17 @@ public class RoleRepository : IRoleRepository
 
     }
 
-   
+    public async Task EnsureRolesAsync(List<string> roles)
+    {
+        foreach (var role in roles)
+        {
+            if (!await _context.Roles.AnyAsync(r => r.Name == role))
+            {
+                _context.Roles.Add(new Role { Name = role });
+            }
+        }
+        await _context.SaveChangesAsync();
+    }
     public async Task<Role> GetRoleByNameAsync(string roleName)
     {
         return await _context.Roles.FirstOrDefaultAsync(s => s.Name == roleName);

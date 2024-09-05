@@ -12,4 +12,5 @@ public interface IUserRepository
     Task UpdateUserAsync(User user);
     Task<User> GetUserByCredentialsAsync(string username, string password);
     Task<User> GetUser(string email);
+    Task<int> UserCountAsync();
 }

@@ -14,7 +14,7 @@ public class UserService : IUserService
         _userRepository = userRepository;
         _roleService = roleService;
     }
-    public async Task<CreateUserResponseDto> CreateUser(CreateUserDto dto)
+    public async Task CreateUser(CreateUserDto dto)
     {
         var existingUser = await _userRepository.GetUserByEmailAsync(dto.Email);
         if (existingUser != null)
@@ -30,16 +30,18 @@ public class UserService : IUserService
             CreatedDate = DateTime.Now
         };
         await _userRepository.CreateUser(user);
-        var userRole = await _roleService.GetRoleByNameAsync("User");
-        await _roleService.AddRoleToUserAsync(user.Id, userRole.Id);
+        var userCount= await _userRepository.UserCountAsync();
 
-        return new CreateUserResponseDto()
+        if (userCount == 1)
         {
-            FirstName = user.FirstName,
-            LastName = user.LastName,
-            Email = user.Email,
-            CreatedDate = user.CreatedDate
-        };
+            var userRole = await _roleService.GetRoleByNameAsync("Admin");
+            await _roleService.AddRoleToUserAsync(user.Id, userRole.Id);
+        }
+        else
+        {
+            var userRole = await _roleService.GetRoleByNameAsync("User");
+            await _roleService.AddRoleToUserAsync(user.Id, userRole.Id);
+        }
     }
 
     public async Task<List<UsersDto>> GetAllUsersAsync()

@@ -15,12 +15,12 @@ public class UserController : ControllerBase
     private readonly IUserService _userService;
     private readonly IConfiguration _configuration;
 
-    public UserController(IUserService userService,IConfiguration configuration)
+    public UserController(IUserService userService, IConfiguration configuration)
     {
         _configuration = configuration;
         _userService = userService;
     }
-    
+
     [HttpGet("all")]
     [Authorize(Roles = "Admin")]
     public async Task<IActionResult> GetAllUsers()
@@ -34,9 +34,8 @@ public class UserController : ControllerBase
         {
             return BadRequest(e.Message);
         }
-       
     }
-    
+
     [HttpGet]
     public async Task<IActionResult> GetUserInfo()
     {
@@ -48,6 +47,7 @@ public class UserController : ControllerBase
             {
                 return NotFound("User not found");
             }
+
             return Ok(user);
         }
         catch (Exception e)
@@ -55,20 +55,21 @@ public class UserController : ControllerBase
             return NotFound("User mail is wrong");
         }
     }
+
     [HttpPost]
     public async Task<IActionResult> CreateUser([FromBody] CreateUserDto createUserDto)
     {
         try
         {
-            var user = await _userService.CreateUser(createUserDto);
-            return Ok(user);
+            await _userService.CreateUser(createUserDto);
+            return Ok();
         }
         catch (Exception e)
         {
             return BadRequest(e.Message);
         }
-        
     }
+
     [HttpPost("assignRole")]
     [Authorize(Roles = "Admin")]
     public async Task<IActionResult> AssignRoleToUser([FromBody] AssignRoleDto assignRoleDto)
@@ -82,7 +83,6 @@ public class UserController : ControllerBase
         {
             return BadRequest(e.Message);
         }
-        
     }
 
     [HttpPut("{id}")]
@@ -98,10 +98,9 @@ public class UserController : ControllerBase
             return BadRequest(e.Message);
         }
     }
-    
-    
-    [HttpDelete("{id}")]
 
+
+    [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteUser(int id)
     {
         try
@@ -113,6 +112,5 @@ public class UserController : ControllerBase
         {
             return BadRequest(e.Message);
         }
-        
     }
 }

@@ -5,7 +5,7 @@ namespace ExcelReadApi.Interface;
 
 public interface IUserService
 {
-    Task<CreateUserResponseDto> CreateUser(CreateUserDto dto);
+    Task CreateUser(CreateUserDto dto);
     Task<List<UsersDto>> GetAllUsersAsync();
     Task<User> GetUserByIdAsync(int id);
     Task<User> GetUserByEmailAsync(string email);
